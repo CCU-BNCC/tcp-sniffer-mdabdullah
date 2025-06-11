@@ -1,0 +1,6 @@
+# Ignore output packet capture files
+*.pcap
+
+# Ignore backup or temp files
+*~
+*.swp
